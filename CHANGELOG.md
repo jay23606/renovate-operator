@@ -1,5 +1,19 @@
 # Changelog
 
+## [6.8.0](https://github.com/mogenius/renovate-operator/compare/6.7.0...6.8.0) (2026-10-30)
+
+
+### Features
+
+* rework readiness and liveness, add helm value for disabling those probes ([4585555](https://github.com/mogenius/renovate-operator/commit/4585555160ae702bfa51a9bc56aa3278fbf17fdd))
+
+
+### Bug Fixes
+
+* **deps:** update kubernetes monorepo to v0.37.2 ([f81d07d](https://github.com/mogenius/renovate-operator/commit/f81d07db493acd3ec29fa40c83911ec521ec30d3))
+* **deps:** update module github.com/netresearch/go-cron to v0.18.0 ([e54c80f](https://github.com/mogenius/renovate-operator/commit/e54c80f2fcedd5ce711188485917ff2e2e023f09))
+* **deps:** update node.js to v26.13.0 ([8f261eb](https://github.com/mogenius/renovate-operator/commit/8f261eb87730b550e89193d82bf557e764473296))
+
 ## [6.7.0](https://github.com/mogenius/renovate-operator/compare/6.6.0...6.7.0) (2026-10-28)
 
 
